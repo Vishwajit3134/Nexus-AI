@@ -57,7 +57,7 @@ The platform is designed to simulate a real-world AI subscription-based product 
 NexusAI/
 │── frontend/
 │── backend/
-│── screenshots/
+│── Screenshots/
 │── README.md
 │── package.json
 │── .gitignore
@@ -126,11 +126,11 @@ npm run dev
 
 ### 🏠 Landing Page
 
-![Landing](screenshots/front-page.png)
+![Landing](Screenshots/front-page.png)
 
 ### 🔐 Login Page
 
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ### 📊 Dashboard
 
