@@ -111,13 +111,13 @@ GOOGLE_CLIENT_ID=your_google_client_id
 #### Backend
 
 ```bash
-npm run dev
+npm node server.js
 ```
 
 #### Frontend
 
 ```bash
-npm start
+npm run dev
 ```
 
 ---
