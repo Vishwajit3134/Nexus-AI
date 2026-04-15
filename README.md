@@ -163,7 +163,7 @@ npm run dev
 
 ### 💳 Pricing Plans
 
-![Billing](Screenshots/billing.png)
+![Billing](Screenshots/Billing.png)
 
 ---
 
