@@ -134,36 +134,36 @@ npm run dev
 
 ### 📊 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### ✍️ Article Generator
 
-![Article](screenshots/article-generator.png)
+![Article](Screenshots/article-generator.png)
 
 ### 🧠 Blog Title Generator
 
-![Blog](screenshots/blog-title.png)
+![Blog](Screenshots/blog-title.png)
 
 ### 🎨 Image Generator
 
-![Image Generator](screenshots/image-generator.png)
+![Image Generator](Screenshots/image-generator.png)
 
 ### 🖼️ Image Editor
 
-![Image Editor](screenshots/image-editor1.png)
-![Image Editor](screenshots/image-editor2.png)
+![Image Editor](Screenshots/image-editor1.png)
+![Image Editor](Screenshots/image-editor2.png)
 
 ### 🖼️ Gallery
 
-![Gallery](screenshots/gallery.png)
+![Gallery](Screenshots/gallery.png)
 
 ### 📄 Resume Analyzer
 
-![Resume](screenshots/resume-analyzer.png)
+![Resume](Screenshots/resume-analyzer.png)
 
 ### 💳 Pricing Plans
 
-![Billing](screenshots/billing.png)
+![Billing](Screenshots/billing.png)
 
 ---
 
